@@ -1,0 +1,2 @@
+#define SECRET_SSID"narzo 50A"
+#define SECRET_PASS"8106312321"
